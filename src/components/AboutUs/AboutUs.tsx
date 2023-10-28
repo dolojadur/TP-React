@@ -12,7 +12,7 @@ const AboutUs = () => {
             }}
             >
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/Images/taylorCara.jpg" />
+                <Card.Img variant="top" src="https://github.com/dolojadur/TP-React/blob/main/src/assets/Images/taylorCara.jpg?raw=true" />
                 <Card.Body>
                     <Card.Title>Taylor Swift</Card.Title>
                     <Card.Text>
@@ -22,7 +22,7 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/Images/1989.jpg" />
+                <Card.Img variant="top" src="https://github.com/dolojadur/TP-React/blob/main/src/assets/Images/1989.jpg?raw=true" />
                 <Card.Body>
                     <Card.Title>1989 Taylor's Version</Card.Title>
                     <Card.Text>
@@ -32,7 +32,7 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/Images/Taylor_Swift_The_Eras_Tour-775811773-large.jpg" />
+                <Card.Img variant="top" src="https://github.com/dolojadur/TP-React/blob/main/src/assets/Images/Taylor_Swift_The_Eras_Tour-775811773-large.jpg?raw=true" />
                 <Card.Body>
                     <Card.Title>The Eras Tour</Card.Title>
                     <Card.Text>
