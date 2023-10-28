@@ -31,9 +31,9 @@ const CarouselHome = () => {
                     <img 
                     className='d-block w-100'
                     style={{maxHeight: "500px", objectFit: 'cover', height: '100%', objectPosition: 'top'}}
-                    src="https://github.com/dolojadur/TP-React/blob/main/src/assets/Images/Feed%20the%20Taylor%20Swift%20hype%20machine%20for%20a%20better%20chance%20at.jpg?raw=true" alt="" />
+                    src="https://github.com/dolojadur/TP-React/blob/main/src/assets/Images/midnights.jpeg?raw=true" alt="" />
                     <Carousel.Caption>
-                        <h3>Reputation</h3>
+                        <h3>Midnights</h3>
                         <p>
                             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
                         </p>
